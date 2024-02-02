@@ -1,0 +1,8 @@
+### Dependencies ###
+# Dependencies listed here will be automatically taken care of by pip-compile #
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+
