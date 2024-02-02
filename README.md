@@ -1,9 +1,17 @@
 # udacity_projects
 Location of all Udacity project notebooks, datasets and notes for my DS Nanodegree
 
+## Data Locations
 
-## Deliverables
-### Project Deliverables
+- Boston Dataset: [here](https://www.kaggle.com/datasets/airbnb/boston)
+- Seattle Dataset: [here](https://www.kaggle.com/datasets/airbnb/seattle/data)
+
+### Data files (for each)
+- calendar
+- reviews
+- listings
+
+## Project Deliverables
 
 #### There are two deliverables that are required for project completion.
 - A Github repository for your code.
