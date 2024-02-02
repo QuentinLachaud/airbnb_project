@@ -1,2 +1,2 @@
-# udacity_projects
-Location of all Udacity project notebooks, datasets and notes for my DS Nanodegree
+# Airbnb Project
+Location of my Airbnb project from Udacity. As cheesy as this looks, this is a course requirement.
